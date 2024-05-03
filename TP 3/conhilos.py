@@ -35,3 +35,5 @@ thr3.join()
 momento_parada = time.perf_counter()
 
 print(f"Tiempo transcurrido: {momento_parada - momento_arranque:0.5f} segundos")
+
+#comentario
